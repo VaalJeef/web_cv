@@ -1,44 +1,44 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Jeffrey VALENTIN",
+    "occupation": "App Developer",
+    "location": "Geneva, CH",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
+    "pronouns": "he/him",
+    "email": "valentin.jeffrey@gmail.com",
     "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "website": "https://jeffrey-valentin.000webhostapp.com/a-propos",
     "skills": [
         "HTML",
         "CSS",
-        "Javascript / ES6",
+        "Javascript",
         "UI Design",
-        "React",
+        "Coffee making",
         "Git"
     ],
     "languages": [
         {
             "name": "English",
-            "level": "native"
+            "level": "basic"
         },
         {
             "name": "German",
-            "level": "fluent"
+            "level": "guten tag"
         },
         {
             "name": "French",
-            "level": "basic"
+            "level": "native"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
+            "user": "@vaaljeef",
             "url": "https://github.com/annaquincey"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "jeffrey-valentin",
+            "url": "https://www.linkedin.com/in/jeffrey-valentin"
         }
     ]
 }
