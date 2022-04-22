@@ -6,4 +6,4 @@ start: 2021-06-01
 ---
 
 * Création et refonte de site Web
-* Création d'identité viseulle
+* Création d'identité visuelle
