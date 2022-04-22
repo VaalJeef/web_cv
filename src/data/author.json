@@ -1,7 +1,7 @@
 {
     "name": "Jeffrey VALENTIN",
-    "occupation": "Concepteur Developpeur d'Applications",
-    "location": "Geneve, CH",
+    "occupation": "Concepteur Développeur d'Applications",
+    "location": "Genève, CH",
     "avatar": "avatar.jpeg",
     "pronouns": "il/lui",
     "email": "valentin.jeffrey@gmail.com",
@@ -16,21 +16,20 @@
         "Express.js",
         "RESTful API",
         "PostgreSQL",
-        "WordPress",
-        "Coffee making"
+        "WordPress"
     ],
     "languages": [
         {
-            "name": "English",
-            "level": "basic"
+            "name": "Anglais",
+            "level": "notions"
         },
         {
-            "name": "German",
+            "name": "Allemand",
             "level": "guten tag"
         },
         {
-            "name": "French",
-            "level": "native"
+            "name": "Français",
+            "level": "langue maternelle"
         }
     ],
     "social": [
