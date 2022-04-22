@@ -1,7 +1,7 @@
 {
     "name": "Jeffrey VALENTIN",
-    "occupation": "App Developer",
-    "location": "Geneva, CH",
+    "occupation": "Concepteur Développeur d'Applications",
+    "location": "Genève, CH",
     "avatar": "avatar.jpeg",
     "pronouns": "he/him",
     "email": "valentin.jeffrey@gmail.com",
@@ -10,9 +10,14 @@
     "skills": [
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
+        "Angular",
+        "Node.js",
+        "Express.js",
+        "RESTful API",
+        "PostgreSQL",
+        "WordPress",
         "Coffee making",
-        "Git"
     ],
     "languages": [
         {
@@ -38,6 +43,11 @@
             "name": "LinkedIn",
             "user": "Jeffrey VALENTIN",
             "url": "https://www.linkedin.com/in/jeffrey-valentin"
+        }
+        {
+            "name": "Instagram",
+            "user": "VaalJeef",
+            "url": "https://www.instagram.com/vaaljeef"
         }
     ]
 }
