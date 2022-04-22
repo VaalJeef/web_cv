@@ -1,9 +1,9 @@
 ---
-title: Senior Front-End Developer
-organization: Netlify
-organizationUrl: https://www.netlify.com
-location: San Francisco, CA
-start: 2020-03-14
+title: Intégrateur Web
+organization: Freelance
+location: Nangy, FR
+start: 2021-06-01
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+* Création et refonte de site Web
+* Création d'identité viseulle
