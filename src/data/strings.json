@@ -1,13 +1,13 @@
 {
     "titles": {
-        "experience": "Experiences professionnelles",
+        "experience": "Éxperiences professionnelles",
         "education": "Formations",
         "skills": "Skills",
         "languages": "Langues",
         "open_source": "Open Source"
     },
     "labels": {
-        "email": "Email",
+        "email": "Couriel",
         "telephone": "Téléphone",
         "print": "Imprimer CV",
         "present": "En cours",
