@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+Après une reconversion professionnelle entamée début 2020, j'ai décidé de suivre une formation d'intégrateur Web chez DIGIFAB, à la suite de laquelle j'ai pu obtenir une certification WordPress. Désireux de gagner en compétences et d'engranger de nouvelles connaissances, j'ai pris la décision de poursuivre sur une formation de concepteur développeur d'applications courant 2022 toujours chez DIGIFAB.
