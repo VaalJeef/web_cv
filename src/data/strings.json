@@ -1,16 +1,16 @@
 {
     "titles": {
-        "experience": "Work Experience",
-        "education": "Education",
+        "experience": "Experiences professionnelles",
+        "education": "Formations",
         "skills": "Skills",
-        "languages": "Languages",
+        "languages": "Langues",
         "open_source": "Open Source"
     },
     "labels": {
         "email": "Email",
-        "telephone": "Telephone",
-        "print": "Print Résumé",
-        "present": "Present",
-        "lastUpdated": "Last updated"
+        "telephone": "Téléphone",
+        "print": "Imprimer CV",
+        "present": "En cours",
+        "lastUpdated": "Dernière MAJ"
     }
 }
