@@ -11,8 +11,7 @@ module.exports = {
             'medium',
             'reddit',
             'slack',
-            'whatsapp',
-            'instagram'
+            'whatsapp'
         ]
         if (isSocial && !availableSocialIcons.includes(id)) {
             return `<span aria-hidden="true">${name}:&nbsp;</span>`
