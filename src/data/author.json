@@ -6,7 +6,7 @@
     "pronouns": "il/lui",
     "email": "valentin.jeffrey@gmail.com",
     "telephone": "+33 6 45 71 34 27",
-    "website": "<a href="https://jeffrey-valentin.000webhostapp.com">ex. de site réalisé</a>",
+    "website": <a href="https://jeffrey-valentin.000webhostapp.com">ex. de site réalisé</a>,
     "skills": [
         "HTML",
         "CSS",
