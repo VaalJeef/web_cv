@@ -21,12 +21,12 @@
     ],
     "languages": [
         {
-            "name": "Anglais",
-            "level": "notions"
-        },
-        {
             "name": "Français",
             "level": "langue maternelle"
+        },
+        {
+            "name": "Anglais",
+            "level": "B1"
         }
     ],
     "social": [
