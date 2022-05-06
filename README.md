@@ -1,5 +1,5 @@
 # Resume
-Mon [CV](a href="https://jeffrey-valentin.netlify.app/" target="_blank")
+Mon [CV](https://jeffrey-valentin.netlify.app)
 
 An online résumé. [Demo Site](https://demo-resume.netlify.app)  
 
